@@ -5,7 +5,7 @@ Hey there ,it's good to meet you.
 Thank you for coming here to learn how you can build your very own Hook that can limit the number of swaps per pool.This article aims to explain the functionality and implementation details of the `RateLimitingSwapHook.sol` contract for Uniswap V4. 
 
 <div align="center">
-<img src="https://www.faiththeevidence.com/uploads/8/5/6/6/8566914/set-limits_orig.jpg" alt="Uni V4" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/01c8c488-bb3b-4dcd-9fd7-ef42f3c79a7c" alt="Uni V4" width="600" height="400">
 </div>
 
 
